@@ -12,5 +12,4 @@ This Python application classifies tweets as Positive, Negative, or Neutral usin
 pip install -r requirements.txt
 
 ## For Run this Program
-```bash
 python main.py
